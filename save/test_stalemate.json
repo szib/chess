@@ -1,0 +1,12 @@
+{
+  "tiles": {
+    "h8": "{\"@color\":\"black\",\"@type\":\"King\",\"@moved\":true}",
+    "b8": "{\"@color\":\"black\",\"@type\":\"Rook\",\"@moved\":true}",
+    "h2": "{\"@color\":\"black\",\"@type\":\"Queen\",\"@moved\":true}",
+    "a1": "{\"@color\":\"white\",\"@type\":\"King\",\"@moved\":false}"
+  },
+  "enpassant": false,
+  "enpassant_bak": false,
+  "current_player": "black",
+  "current_player_bak": "black"
+}

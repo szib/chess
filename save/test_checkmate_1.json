@@ -1,0 +1,12 @@
+{
+  "tiles": {
+    "d8": "{\"@color\":\"black\",\"@type\":\"Knight\"}",
+    "e1": "{\"@color\":\"white\",\"@type\":\"King\"}",
+    "e8": "{\"@color\":\"black\",\"@type\":\"King\"}",
+    "d6": "{\"@color\":\"white\",\"@type\":\"Knight\"}"
+  },
+  "enpassant": false,
+  "enpassant_bak": false,
+  "current_player": "black",
+  "current_player_bak": "white"
+}
